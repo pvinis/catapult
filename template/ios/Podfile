@@ -41,13 +41,3 @@ target 'Catapult' do
 
   use_native_modules!
 end
-
-target 'Catapult-tvOS' do
-  # Pods for Catapult-tvOS
-
-  target 'Catapult-tvOSTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-end

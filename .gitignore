@@ -1,2 +1,4 @@
+# lockfiles
 template/yarn.lock
 template/ios/Podfile.lock
+template/Gemfile.lock
