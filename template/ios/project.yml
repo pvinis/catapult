@@ -1,0 +1,8 @@
+name: Catapult
+options:
+  usesTabs: true
+targets:
+  Catapult:
+    type: application
+    platform: iOS
+    sources: [Catapult]
