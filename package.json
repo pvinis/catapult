@@ -1,8 +1,8 @@
 {
 	"name": "catapult",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"description": "Best react-native template",
 	"repository": "git@github.com:pvinis/catapult.git",
 	"author": "Pavlos Vinieratos <pvinis@gmail.com>",
 	"license": "MIT"
-  }
+}

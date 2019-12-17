@@ -1,4 +1,13 @@
 {
-  "name": "Catapult",
-  "displayName": "Catapult"
+	"name": "Catapult",
+	"displayName": "Catapult",
+	"version": "1.0",
+	"ios": {
+		"bundleIdentifier": "is.pvin.ilbe",
+		"buildNumber": "4",
+		"supportsTablet": true
+	},
+	"android": {
+		"package": "is.pvin.ilbe"
+	},
 }

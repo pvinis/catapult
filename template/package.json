@@ -1,26 +1,27 @@
 {
-  "name": "Catapult",
-  "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "nps",
-    "test": "nps test"
-  },
-  "dependencies": {
-    "react": "16.9.0",
-    "react-native": "0.61.5"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.7.4",
-    "@babel/runtime": "^7.7.4",
-    "@react-native-community/eslint-config": "^0.0.5",
-    "babel-jest": "^24.9.0",
-    "eslint": "^6.7.2",
-    "jest": "^24.9.0",
-    "metro-react-native-babel-preset": "^0.57.0",
-    "react-test-renderer": "16.9.0"
-  },
-  "jest": {
-    "preset": "react-native"
-  }
+	"name": "catapult",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "nps",
+		"test": "nps test"
+	},
+	"dependencies": {
+		"react": "16.9.0",
+		"react-native": "0.61.5"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.7.4",
+		"@babel/runtime": "^7.7.4",
+		"@react-native-community/eslint-config": "^0.0.5",
+		"babel-jest": "^24.9.0",
+		"eslint": "^6.7.2",
+		"eslint-plugin-react": "^7.17.0",
+		"jest": "^24.9.0",
+		"metro-react-native-babel-preset": "^0.57.0",
+		"react-test-renderer": "16.9.0"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
 }
