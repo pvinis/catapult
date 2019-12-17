@@ -10,5 +10,4 @@ Best react-native template
 typescript
 fastlane ios
 fastlane android
-xcodegen
 scripts
