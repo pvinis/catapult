@@ -7,6 +7,9 @@ targets:
   Catapult:
     type: application
     platform: iOS
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: org.reactjs.native.example.Catapult
     sources: [Catapult]
     scheme:
       testTargets:
