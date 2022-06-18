@@ -18,7 +18,7 @@
 		"eslint": "6.8.0",
 		"eslint-plugin-react": "7.18.3",
 		"jest": "24.9.0",
-		"metro-react-native-babel-preset": "0.57.0",
+		"metro-react-native-babel-preset": "0.71.1",
 		"react-test-renderer": "16.9.0"
 	},
 	"jest": {
